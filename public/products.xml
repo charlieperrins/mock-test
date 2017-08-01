@@ -1,34 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <response>
-    <header>
-        <noOfResults>21</noOfResults>
-        <offset>1</offset>
-        <totalpage>2</totalpage>
-        <pagesize>20</pagesize>
-    </header>
     <designs>
         <design>
-            <name>ULTRAGRIP 9 MS</name>
-            <designtext>ULTRAGRIP 9 MS</designtext>
             <design>UG9</design>
+            <designtext>ULTRAGRIP 9 MS</designtext>
+            <webDesigntext>ultragrip-9-ms</webDesigntext>
             <lastModified>2013-02-26 16:42:44.0 UTC</lastModified>
-            <webName>ultragrip-9-ms</webName>
             <locales>
                 <locale>
-                <code>en_gb</code>
-                <name>UltraGrip 9</name>
-                <designtext>ULTRAGRIP 9 MS</designtext>
-                <design>UG9</design>
-                <webTitle>ultragrip-9</webTitle>
-            </locale>
-            <locale>
-                <code>de_de</code>
-                <name>UltraGrip 9</name>
-                <designtext>ULTRAGRIP 9 MS</designtext>
-                <design>UG9</design>
-                <webTitle>ultragrip-9-_schmal_</webTitle>
-            </locale>
+                    <code>en_gb</code>
+                    <name>UltraGrip 9</name>
+                    <webName>ultragrip-9</webName>
+                </locale>
+                <locale>
+                    <code>de_de</code>
+                    <name>UltraGrip 9 (schmal)</name>
+                    <webName>ultragrip-9-_schmal_</webName>
+                </locale>
             </locales>
         </design>
-    </designs>
+     </designs>
 </response>

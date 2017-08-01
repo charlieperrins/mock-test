@@ -1,101 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <response>
-    <storeFinderData>
-        <results>
-            <PointOfServiceData>
-                <name>HiQ Ipswich</name>
-                <address>
-                    <id>8854597402647</id>
-                    <line1>Woodbridge Road</line1>
-                    <line2>580</line2>
-                    <town>Ipswich</town>
-                    <postalCode>IP4 4PH</postalCode>
-                    <phone>01473 724431</phone>
-                    <country>
-                        <isocode>GB</isocode>
-                        <name>United Kingdom</name>
-                    </country>
-                    <streetName>Woodbridge Road</streetName>
-                    <streetNumber>580</streetNumber>
-                </address>
-                <agencyCode>30024307</agencyCode>
-            </PointOfServiceData>
-            <PointOfServiceData>
-                <name>National Tyres and Autocare</name>
-                <address>
-                    <id>8854612181015</id>
-                    <line1>Woodbridge Road</line1>
-                    <line2>486</line2>
-                    <town>Ipswich</town>
-                    <postalCode>IP4 4PS</postalCode>
-                    <phone>01473 723 227</phone>
-                    <country>
-                        <isocode>GB</isocode>
-                        <name>United Kingdom</name>
-                    </country>
-                    <streetName>Woodbridge Road</streetName>
-                    <streetNumber>486</streetNumber>
-                </address>
-                <agencyCode>305600</agencyCode>
-            </PointOfServiceData>
-            <PointOfServiceData>
-                <name>Kwik-Fit</name>
-                <address>
-                    <id>8854574170135</id>
-                    <line1>Nacton Road</line1>
-                    <line2>701</line2>
-                    <town>Ipswich</town>
-                    <postalCode>IP3 9RZ</postalCode>
-                    <phone>01473 723 370</phone>
-                    <country>
-                        <isocode>GB</isocode>
-                        <name>United Kingdom</name>
-                    </country>
-                    <streetName>Nacton Road</streetName>
-                    <streetNumber>701</streetNumber>
-                </address>
-                <agencyCode>i_gb000555</agencyCode>
-            </PointOfServiceData>
-            <PointOfServiceData>
-                <name>ATS Euromaster Ltd</name>
-                <address>
-                    <id>8854527115287</id>
-                    <line1>White Elm Street</line1>
-                    <town>Ipswich</town>
-                    <postalCode>IP3 8BA</postalCode>
-                    <phone>01473217157</phone>
-                    <country>
-                        <isocode>GB</isocode>
-                        <name>United Kingdom</name>
-                    </country>
-                    <streetName>White Elm Street</streetName>
-                </address>
-                <agencyCode>302542</agencyCode>
-            </PointOfServiceData>
-            <PointOfServiceData>
-                <name>Halfords Autocentres Ltd</name>
-                <address>
-                    <id>8854591504407</id>
-                    <line1>Ipswich Trade Centre</line1>
-                    <line2>Unit 2A</line2>
-                    <town>Ipswich</town>
-                    <postalCode>IP1 1UZ</postalCode>
-                    <phone>01473 255918</phone>
-                    <country>
-                        <isocode>GB</isocode>
-                        <name>United Kingdom</name>
-                    </country>
-                    <streetName>Ipswich Trade Centre</streetName>
-                    <streetNumber>Unit 2A</streetNumber>
-                </address>
-                <agencyCode>30069516</agencyCode>
-            </PointOfServiceData>
-        </results>
-        <pagination>
-            <pageSize>5</pageSize>
-            <currentPage>0</currentPage>
-            <totalPages>57</totalPages>
-            <totalResults>285</totalResults>
-        </pagination>
-    </storeFinderData>
+    <dealers>
+        <dealer>
+            <webName>hiq-ipswich</webName>
+            <name>HiQ Ipswich</name>
+            <address>
+                <town>
+                    <name>Ipswich</name>
+                    <webName>ipswich</webName>
+                </town>
+                <postalCode>
+                    <name>IP4 4PH</name>
+                    <webName>ip4-4ph</webName>
+                </postalCode>
+                <streetName>
+                    <name>Woodbridge Road</name>
+                    <webName>woodbridge-road</webName>
+                </streetName>
+                <streetNumber>580</streetNumber>
+            </address>
+            <agencyCode>30024307</agencyCode>
+        </dealer>
+    </dealers>
 </response>
